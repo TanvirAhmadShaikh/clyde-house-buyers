@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /includes/
+Disallow: /tools/
+Disallow: /submit-lead.php
+
+Disallow: /funnels/
+
+Sitemap: https://clydehousebuyers.co.uk/sitemap.xml
