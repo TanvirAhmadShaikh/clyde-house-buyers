@@ -1,13 +1,13 @@
 <?php
 /**
- * private/secrets.php — runtime secrets, NOT committed to deploys.
+ * private/secrets.example.php — template for private/secrets.php.
  *
- * This file is excluded from rsync (see deploy.sh exclude list) so the
- * live server's real values are never overwritten by this placeholder.
+ * private/secrets.php is gitignored and holds the real values, both
+ * locally and on the live server. It's also excluded from deploy.sh's
+ * rsync, so the server's real values are never overwritten by a deploy.
  *
- * On the live server, this file already contains the real values.
- * If you ever need to seed it on a new server, copy this template and
- * fill in the placeholders with real values.
+ * To set up a new environment: copy this file to private/secrets.php
+ * and fill in the real values.
  *
  * Expected keys:
  *   smtp_pass           → Fasthosts mailbox password for no-reply@clydehousebuyers.co.uk

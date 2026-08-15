@@ -1,6 +1,6 @@
 <?php
-$page_title = "Sell My House Fast Glasgow — Cash Offer in 24 Hours | Clyde Housebuyers";
-$page_description = "Glasgow-based cash house buyers. Free valuation in 24 hours, completion in 14–28 days, £0 fees. We buy tenement flats, ex-council semis, tenanted property, any G postcode.";
+$page_title = "Sell My House Fast & Quickly in Glasgow | Clyde Housebuyers";
+$page_description = "Sell your house quickly in Glasgow. Cash offer in 24 hours, completion in 14–28 days, £0 fees. We buy tenement flats, ex-council semis, tenanted property, any G postcode.";
 $canonical = "https://clydehousebuyers.co.uk/sellers/sell-house-fast-glasgow.php";
 include __DIR__ . '/../includes/head.php';
 include __DIR__ . '/../includes/header.php';
@@ -15,7 +15,7 @@ include __DIR__ . '/../includes/header.php';
 <section class="hero">
   <div class="container hero-inner">
     <span class="eyebrow" style="color:#d6b56b;">Glasgow · Cash buyers</span>
-    <h1>Sell your Glasgow house fast — cash offer in 24 hours, completion in 14–28 days.</h1>
+    <h1>Want to sell your house quickly in Glasgow? Get a cash offer in 24 hours, completion in 14–28 days.</h1>
     <p class="hero-subhead">We're Glasgow-based property buyers. We buy tenement flats in the West End, four-in-a-blocks in the East End, ex-council semis in Pollok, and everything in between. Any condition, any situation, any postcode in the G area.</p>
     <div class="hero-ctas">
       <a href="/free-valuation.php" class="btn btn-primary">Get my cash offer in 24 hours</a>
@@ -32,7 +32,7 @@ include __DIR__ . '/../includes/header.php';
     <span class="eyebrow">Why Glasgow sellers choose us</span>
     <h2>A Glasgow buyer who actually knows Glasgow.</h2>
     <p>The Glasgow property market isn't one market — it's twenty. A tenement flat off Byres Road is a completely different sale to a four-in-a-block in Easterhouse, or a sandstone semi in Bearsden, or a new-build in the Merchant City. Most national "we buy any house" companies use the same template valuation for all of them. We don't.</p>
-    <p>We're based in Glasgow. We sell, refurbish, and let property across every G postcode. We know which streets in Govanhill have factor issues. We know which Maryhill blocks need common repairs. We know the parts of the East End that have transformed in the last five years and the parts that haven't. <strong>That local knowledge means a more accurate valuation — and a fairer offer for you.</strong></p>
+    <p>If you need to sell your house quickly in Glasgow, local knowledge is what actually speeds things up. We're based in Glasgow. We sell, refurbish, and let property across every G postcode. We know which streets in Govanhill have factor issues. We know which Maryhill blocks need common repairs. We know the parts of the East End that have transformed in the last five years and the parts that haven't. <strong>That local knowledge means a more accurate valuation — and a fairer offer for you.</strong></p>
     <p>It also means we'll buy properties most national cash buyers won't touch: non-standard construction, tenement flats with factor disputes, outstanding common repair notices, properties needing major work. If a Glasgow property has a problem, we've probably seen it before.</p>
   </div>
 </section>
@@ -136,7 +136,7 @@ include __DIR__ . '/../includes/header.php';
       <h2>Questions Glasgow sellers ask us.</h2>
     </div>
     <div class="faq" data-schema="true">
-      <details><summary>How fast can you actually complete on a Glasgow property?</summary><p>Realistically, 14–28 days for most cash purchases. We've done 9 days where it was urgent (repossession deadline). The bottleneck is usually missives and the Land Register, not us. We use Scottish solicitors who specialise in fast conveyancing and we instruct them the day you accept our offer.</p></details>
+      <details><summary>How quickly can you actually complete on a Glasgow property?</summary><p>Realistically, 14–28 days for most cash purchases. We've done 9 days where it was urgent (repossession deadline). The bottleneck is usually missives and the Land Register, not us. We use Scottish solicitors who specialise in fast conveyancing and we instruct them the day you accept our offer.</p></details>
       <details><summary>What kind of cash offer should I expect?</summary><p>For a straightforward cash purchase, typically 75–85% of open-market value. The exact figure depends on condition, area, work needed, and current Glasgow market conditions. If you'd be better off with an assisted sale that nets closer to full market value, we'll tell you that instead.</p></details>
       <details><summary>Do you only buy in central Glasgow?</summary><p>No — we cover every G postcode plus the wider Central Belt, including Paisley, East Kilbride, Hamilton, Motherwell, Coatbridge, and surrounding towns.</p></details>
       <details><summary>Will you buy a tenement with factor or common-repair issues?</summary><p>Yes. We handle factor disputes and outstanding common repair notices regularly. If there are scheme costs to deal with, we factor them into our offer and take them on after purchase — you don't have to resolve them first.</p></details>
