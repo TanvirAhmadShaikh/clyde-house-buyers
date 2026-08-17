@@ -114,45 +114,11 @@ include 'includes/header.php';
 </section>
 
 <section class="section section-alt">
-  <div class="container">
-    <div class="text-center mb-4">
-      <span class="eyebrow">Our solutions</span>
-      <h2>Six routes. One that fits your situation.</h2>
-      <p class="muted" style="max-width:600px; margin: 1rem auto 0;">We don't believe one strategy fits every property. Here's how we work.</p>
-    </div>
-
-    <div class="grid-3">
-      <div class="solution-card">
-        <h3>Cash Purchase</h3>
-        <p>Direct sale to us, completion in 14–28 days. Best for fast exits where the property is in reasonable condition.</p>
-        <a href="/solutions/cash-purchase.php" class="solution-link">Learn more</a>
-      </div>
-      <div class="solution-card">
-        <h3>Assisted Sale</h3>
-        <p>We refurbish, sell at market value, split the uplift. Best for properties that need work but have strong potential.</p>
-        <a href="/solutions/assisted-sale.php" class="solution-link">Learn more</a>
-      </div>
-      <div class="solution-card">
-        <h3>Tenanted Sale</h3>
-        <p>Sell with tenants in situ — no evictions, no void periods. Best for landlords exiting the market.</p>
-        <a href="/solutions/sell-with-tenants-in-situ.php" class="solution-link">Learn more</a>
-      </div>
-      <div class="solution-card">
-        <h3>Brokered Sale</h3>
-        <p>We list to our investor database — faster than the open market. Best for properties with strong yield.</p>
-        <a href="/solutions/brokered-sale.php" class="solution-link">Learn more</a>
-      </div>
-      <div class="solution-card">
-        <h3>Joint Venture</h3>
-        <p>We refurbish together and share the uplift. Best when you want to maximise return and have time.</p>
-        <a href="/solutions/joint-venture.php" class="solution-link">Learn more</a>
-      </div>
-      <div class="solution-card">
-        <h3>Open Market Sale</h3>
-        <p>Prefer a traditional listing? Our agent partner lists on Rightmove, Zoopla &amp; OnTheMarket — no upfront cost to you.</p>
-        <a href="/solutions/open-market-sale.php" class="solution-link">Learn more</a>
-      </div>
-    </div>
+  <div class="container text-center">
+    <span class="eyebrow">Our solutions</span>
+    <h2>Six routes, depending on what fits.</h2>
+    <p class="muted" style="max-width:600px; margin: 1rem auto 0;">Cash purchase, assisted sale, tenanted sale, brokered sale, joint venture, or open market sale — most sellers just tell us their situation above and we propose the right one.</p>
+    <a href="/solutions/" class="btn btn-secondary mt-2">See all six routes →</a>
   </div>
 </section>
 

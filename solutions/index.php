@@ -20,6 +20,13 @@ include __DIR__ . '/../includes/header.php';
 
 <section class="section">
   <div class="container">
+    <div class="callout callout-gold mb-4 text-center">
+      <p style="margin:0;"><strong>Not sure which route fits?</strong> Send your property details and we'll propose the best one for your situation — that's what most sellers do instead of comparing all six themselves.</p>
+      <a href="/free-valuation.php" class="btn btn-primary mt-2">Get my free valuation</a>
+    </div>
+
+    <p class="muted text-center mb-2">Or browse all six routes yourself:</p>
+
     <div class="grid-3">
       <a class="solution-card" href="/solutions/cash-purchase.php" style="text-decoration:none; color:inherit;"><h3>Cash Purchase</h3><p>Direct sale to us, completion in 14–28 days. Any condition. Any situation. The simplest, fastest route.</p><span class="solution-link">Read more</span></a>
       <a class="solution-card" href="/solutions/assisted-sale.php" style="text-decoration:none; color:inherit;"><h3>Assisted Sale</h3><p>We refurbish at our cost, sell at market value, split the uplift. Nets you significantly more than a cash offer when the property needs work.</p><span class="solution-link">Read more</span></a>
@@ -27,10 +34,6 @@ include __DIR__ . '/../includes/header.php';
       <a class="solution-card" href="/solutions/brokered-sale.php" style="text-decoration:none; color:inherit;"><h3>Brokered Sale</h3><p>Off-market sale through our investor database. Faster than open-market, no public listing, better than cash sale.</p><span class="solution-link">Read more</span></a>
       <a class="solution-card" href="/solutions/joint-venture.php" style="text-decoration:none; color:inherit;"><h3>Joint Venture</h3><p>Refurbish together and share the outcome. For owners who want to add value without selling at as-is price.</p><span class="solution-link">Read more</span></a>
       <a class="solution-card" href="/solutions/open-market-sale.php" style="text-decoration:none; color:inherit;"><h3>Open Market Sale</h3><p>Prefer the traditional open market? Our partner agent lists your property on Rightmove, Zoopla and OnTheMarket — at no upfront cost to you.</p><span class="solution-link">Read more</span></a>
-    </div>
-
-    <div class="text-center mt-4">
-      <p class="muted">Not sure which route fits? <a href="/free-valuation.php">Send your property details</a> and we'll propose the best route for your specific situation.</p>
     </div>
   </div>
 </section>
