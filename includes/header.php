@@ -59,29 +59,44 @@
 
 <div class="mobile-nav" id="mobile-nav">
     <a href="/">Home</a>
-    <div class="mobile-section-label">Sellers</div>
-    <a href="/sellers/" class="mobile-all">All areas we cover →</a>
-    <a href="/sellers/sell-house-fast-glasgow.php">Glasgow</a>
-    <a href="/sellers/sell-house-fast-paisley.php">Paisley</a>
-    <a href="/sellers/sell-house-fast-east-kilbride.php">East Kilbride</a>
-    <a href="/sellers/sell-house-fast-hamilton.php">Hamilton</a>
-    <a href="/sellers/sell-house-fast-motherwell.php">Motherwell</a>
-    <div class="mobile-section-label">Solutions</div>
-    <a href="/solutions/" class="mobile-all">All solutions →</a>
-    <a href="/solutions/cash-purchase.php">Cash Purchase</a>
-    <a href="/solutions/assisted-sale.php">Assisted Sale</a>
-    <a href="/solutions/sell-with-tenants-in-situ.php">Tenanted Sale</a>
-    <a href="/solutions/brokered-sale.php">Brokered Sale</a>
-    <a href="/solutions/joint-venture.php">Joint Venture</a>
-    <a href="/solutions/open-market-sale.php">Open Market Sale</a>
-    <div class="mobile-section-label">Situations</div>
-    <a href="/situations/" class="mobile-all">All situations →</a>
-    <a href="/situations/sell-inherited-property-glasgow.php">Inherited Property</a>
-    <a href="/situations/avoid-repossession-glasgow.php">Avoid Repossession</a>
-    <a href="/situations/sell-tenanted-property-scotland.php">Sell Tenanted Property</a>
-    <a href="/situations/sell-house-fast-divorce-scotland.php">Divorce Sale</a>
-    <a href="/situations/sell-house-needing-repairs-glasgow.php">Needs Repairs</a>
-    <div class="mobile-section-label">More</div>
+
+    <details class="mobile-accordion">
+      <summary>Sellers</summary>
+      <div class="mobile-accordion-panel">
+        <a href="/sellers/" class="mobile-all">All areas we cover →</a>
+        <a href="/sellers/sell-house-fast-glasgow.php">Glasgow</a>
+        <a href="/sellers/sell-house-fast-paisley.php">Paisley</a>
+        <a href="/sellers/sell-house-fast-east-kilbride.php">East Kilbride</a>
+        <a href="/sellers/sell-house-fast-hamilton.php">Hamilton</a>
+        <a href="/sellers/sell-house-fast-motherwell.php">Motherwell</a>
+      </div>
+    </details>
+
+    <details class="mobile-accordion">
+      <summary>Solutions</summary>
+      <div class="mobile-accordion-panel">
+        <a href="/solutions/" class="mobile-all">All solutions →</a>
+        <a href="/solutions/cash-purchase.php">Cash Purchase</a>
+        <a href="/solutions/assisted-sale.php">Assisted Sale</a>
+        <a href="/solutions/sell-with-tenants-in-situ.php">Tenanted Sale</a>
+        <a href="/solutions/brokered-sale.php">Brokered Sale</a>
+        <a href="/solutions/joint-venture.php">Joint Venture</a>
+        <a href="/solutions/open-market-sale.php">Open Market Sale</a>
+      </div>
+    </details>
+
+    <details class="mobile-accordion">
+      <summary>Situations</summary>
+      <div class="mobile-accordion-panel">
+        <a href="/situations/" class="mobile-all">All situations →</a>
+        <a href="/situations/sell-inherited-property-glasgow.php">Inherited Property</a>
+        <a href="/situations/avoid-repossession-glasgow.php">Avoid Repossession</a>
+        <a href="/situations/sell-tenanted-property-scotland.php">Sell Tenanted Property</a>
+        <a href="/situations/sell-house-fast-divorce-scotland.php">Divorce Sale</a>
+        <a href="/situations/sell-house-needing-repairs-glasgow.php">Needs Repairs</a>
+      </div>
+    </details>
+
     <a href="/how-it-works.php">How it works</a>
     <a href="/case-studies.php">Worked examples</a>
     <a href="/about.php">About</a>

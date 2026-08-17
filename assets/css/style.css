@@ -216,11 +216,37 @@ em { font-style: italic; }
 .mobile-nav.open { display: block; }
 /* When mobile menu is open, lock the body so background can't scroll */
 body.mobile-nav-open { overflow: hidden; touch-action: none; position: relative; }
-.mobile-nav a { display: block; padding: 0.65rem 0; color: var(--ch-charcoal); text-decoration: none; font-weight: 500; border-bottom: 1px solid var(--ch-slate-lighter); }
-.mobile-nav a:last-of-type { border-bottom: none; }
-.mobile-nav .mobile-section-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--ch-navy-60); font-weight: 600; margin-top: 1rem; padding-bottom: 0.25rem; }
+.mobile-nav > a { display: block; padding: 0.65rem 0; color: var(--ch-charcoal); text-decoration: none; font-weight: 500; border-bottom: 1px solid var(--ch-slate-lighter); }
+.mobile-nav > a:last-of-type { border-bottom: none; }
 .mobile-nav a.mobile-all { color: var(--ch-gold-dark); font-weight: 600; }
 .mobile-nav .btn { width: 100%; margin-top: 1rem; }
+
+.mobile-accordion { border-bottom: 1px solid var(--ch-slate-lighter); }
+.mobile-accordion summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.65rem 0;
+  font-weight: 500;
+  color: var(--ch-charcoal);
+  cursor: pointer;
+  list-style: none;
+}
+.mobile-accordion summary::-webkit-details-marker { display: none; }
+.mobile-accordion summary::after {
+  content: '';
+  width: 9px;
+  height: 9px;
+  border-right: 2px solid var(--ch-navy-60);
+  border-bottom: 2px solid var(--ch-navy-60);
+  transform: rotate(45deg);
+  transition: transform .2s;
+  margin-right: 3px;
+}
+.mobile-accordion[open] summary::after { transform: rotate(-135deg); margin-right: 0; margin-top: 5px; }
+.mobile-accordion-panel { padding-bottom: 0.5rem; }
+.mobile-accordion-panel a { display: block; padding: 0.55rem 0 0.55rem 0.75rem; color: var(--ch-charcoal); text-decoration: none; font-weight: 500; }
+.mobile-accordion-panel a.mobile-all { padding-left: 0; }
 
 @media (min-width: 992px) {
   .site-nav { display: flex; }

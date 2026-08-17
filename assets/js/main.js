@@ -6,11 +6,17 @@
   const toggle = document.querySelector('.nav-toggle');
   const mobileNav = document.querySelector('.mobile-nav');
   if (toggle && mobileNav) {
+    const closeAccordions = function () {
+      mobileNav.querySelectorAll('details.mobile-accordion[open]').forEach(function (details) {
+        details.removeAttribute('open');
+      });
+    };
     toggle.addEventListener('click', function () {
       const open = toggle.getAttribute('aria-expanded') === 'true';
       toggle.setAttribute('aria-expanded', String(!open));
       mobileNav.classList.toggle('open', !open);
       document.body.classList.toggle('mobile-nav-open', !open);
+      if (open) closeAccordions(); // reset to collapsed state next time it's opened
     });
     // Close the menu when a link inside it is clicked (so the new page loads with a clean state)
     mobileNav.querySelectorAll('a').forEach(function (link) {
@@ -18,6 +24,7 @@
         toggle.setAttribute('aria-expanded', 'false');
         mobileNav.classList.remove('open');
         document.body.classList.remove('mobile-nav-open');
+        closeAccordions();
       });
     });
   }
