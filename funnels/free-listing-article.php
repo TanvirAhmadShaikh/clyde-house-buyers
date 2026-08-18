@@ -419,11 +419,11 @@ include __DIR__ . '/../includes/head.php';
     <div class="fa-faqs">
       <details>
         <summary>What if my home doesn't sell?</summary>
-        <p>You pay nothing. The partner agent only earns when there's a completed sale. There are no advertising fees, no withdrawal fees, no penalties.</p>
+        <p>You pay nothing. The partner agent only earns when there's a completed sale, so if it doesn't sell within your listing term, there are no advertising fees to pay. (If you decide to withdraw before the term is up, see the next question — different terms apply.)</p>
       </details>
       <details>
         <summary>Am I locked in for any period of time?</summary>
-        <p>You'll see the partner agent's terms in the written listing agreement before signing. They're transparent about any minimum-marketing period (most are 12 weeks, comparable to high-street agents). You're not signing a multi-year tie-in.</p>
+        <p>You'll see the partner agent's terms in the written listing agreement before signing. The standard minimum-marketing period is 12 weeks (3 months), comparable to high-street agents — you're not signing a multi-year tie-in. There's no separate penalty fee for leaving early, but because the Home Report and marketing are provided at no upfront cost to you, the agent would look to recover those costs if you cancelled before the term is up.</p>
       </details>
       <details>
         <summary>Does the buyer's premium mean buyers offer less?</summary>

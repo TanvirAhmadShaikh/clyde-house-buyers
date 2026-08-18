@@ -432,8 +432,8 @@ include __DIR__ . '/../includes/head.php';
       </div>
       <div class="lp-benefit">
         <div class="lp-benefit-icon">🔒</div>
-        <h3>No pressure, no lock-in</h3>
-        <p>We don't tie you in. You're free to decide at any point before signing that it's not the right fit — no penalties, no obligation, no hassle.</p>
+        <h3>No pressure to sign</h3>
+        <p>You're free to decide at any point before signing that it's not the right fit — no cost, no obligation, no hassle. Once you sign, the standard listing term is 3 months, the same as most high-street agents.</p>
       </div>
       <div class="lp-benefit">
         <div class="lp-benefit-icon">✓</div>
@@ -507,7 +507,7 @@ include __DIR__ . '/../includes/head.php';
       </details>
       <details>
         <summary>Am I tied in to anything?</summary>
-        <p>No long-term lock-in. You'll see the partner agent's terms before you sign — and you're free to decide at any point that it's not for you, without penalty.</p>
+        <p>Before you sign, there's no obligation — decide it's not for you and walk away at no cost. Once you sign, the listing agreement includes a standard 3-month minimum marketing term, comparable to most high-street agents. There's no separate penalty fee for leaving early, but because the Home Report and marketing are provided at no upfront cost to you, the agent would look to recover those costs if you cancelled before the term is up.</p>
       </details>
       <details>
         <summary>How quickly does the property go live?</summary>
