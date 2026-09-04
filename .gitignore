@@ -1,2 +1,5 @@
 # Real runtime secrets — see private/secrets.example.php for the template
 private/secrets.php
+
+# Contains real SSH host/user for deployment — kept local only
+deploy.sh
