@@ -89,7 +89,7 @@ include __DIR__ . '/../includes/header.php';
       <details><summary>Will the children's school catchment / move-out timing be a problem?</summary><p>Probably not. We can usually agree a flexible completion date 4–12 weeks out, so you have time to find alternative accommodation. Some sellers ask to rent the property back from us short-term while they organise the move — we'll consider it case by case.</p></details>
       <details><summary>Do we both need to be in Scotland to sell?</summary><p>No. Plenty of separations involve one party who's already moved south or abroad. Solicitors can act for either party remotely. Sign-off can be done by post or video witness.</p></details>
       <details><summary>What if there are joint debts secured against the property?</summary><p>Secured debts are paid from the proceeds at completion. Unsecured debts are between you, your spouse, and your creditors — not part of the sale.</p></details>
-      <details><summary>Is everything kept confidential?</summary><p>Yes. We don't list the property publicly, don't put up a for-sale board, and don't share details with anyone outside the transaction.</p></details>
+      <details><summary>Is everything kept confidential?</summary><p>Yes. We don't list the property publicly and don't put up a for-sale board, so there's nothing visible to neighbours or anyone in the street.</p></details>
       <details><summary>Will this affect either of our credit files?</summary><p>A voluntary property sale doesn't affect your credit file. Mortgage redemption is recorded as a paid-off mortgage. Only missed payments or repossession action would appear negatively — and a clean sale prevents both.</p></details>
     </div>
   </div>

@@ -29,6 +29,9 @@ include 'includes/header.php';
 <h2>No guarantee of outcome</h2>
 <p>We cannot guarantee any specific outcome. Completion timeframes shown (e.g. "14–28 days") are typical but depend on factors outside our control including missives progress, Land Register processing, lender responses, and your solicitor's response times. The worked examples on our site are illustrative scenarios for educational purposes only — they are not real clients and do not guarantee future results.</p>
 
+<h2>Introductions to partner firms</h2>
+<p>Where we consider another buyer or estate agent better placed to help with your specific sale, we will ask your permission before introducing your enquiry to a partner firm, so they can contact you directly. We receive a small percentage of the fee from the partner firm on completion. See our <a href="/privacy.php">privacy policy</a> for how we share your data.</p>
+
 <h2>Acceptable use</h2>
 <p>You may not use this website to:</p>
 <ul>

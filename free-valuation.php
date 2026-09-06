@@ -132,7 +132,7 @@ include 'includes/header.php';
             <label class="form-option"><input type="checkbox" name="contact_preference[]" value="Text"><span>Text</span></label>
           </div>
 
-          <p class="small muted mt-2">By submitting, you agree to our <a href="/privacy.php">privacy policy</a>. We never share your details with third parties.</p>
+          <p class="small muted mt-2">By submitting, you agree to our <a href="/privacy.php">privacy policy</a>. If a partner firm is better placed to help with your sale, we'll always ask your permission before introducing you to them.</p>
 
           <div class="form-actions">
             <button type="button" class="btn btn-ghost" data-action="prev">← Back</button>

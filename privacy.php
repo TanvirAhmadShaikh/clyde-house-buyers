@@ -38,7 +38,7 @@ include 'includes/header.php';
 <h2>How we use your data</h2>
 <p>We use your data to:</p>
 <ul>
-  <li>Respond to your property enquiry, value your property, and propose suitable routes</li>
+  <li>Respond to your property enquiry, value your property, and propose suitable routes — including introducing you to a partner firm if we consider them better placed to help with your sale</li>
   <li>Carry out due diligence and complete property transactions (where you proceed with us)</li>
   <li>Comply with anti-money-laundering (AML) and HMRC reporting obligations</li>
   <li>Send transaction-related communications (e.g. progress updates on your sale)</li>
@@ -59,12 +59,13 @@ include 'includes/header.php';
 <p>We share your data only with:</p>
 <ul>
   <li>Our partner estate agent — but only if you've enquired about our free listing service or open-market sale route, and only so that they can contact you to arrange your listing</li>
+  <li>Partner property-buying firms — if we consider another buyer better placed to make you an offer (for example, based on your property type, location, condition, or timescale), we'll always ask your permission first before passing on your enquiry. We receive a small percentage of the fee from the partner firm on completion</li>
   <li>Solicitors and surveyors involved in your transaction (only with your knowledge)</li>
   <li>HMRC and Companies House (legal obligations)</li>
   <li>Our regulated service providers (e.g. AML verification, payment processors) under data-processing agreements</li>
   <li>Authorities investigating fraud or legal proceedings (only where legally required)</li>
 </ul>
-<p>We don't sell your data, share it with marketing networks, or use it for cross-site advertising. If you'd prefer we didn't share your details with our partner agent (which would mean we can't arrange the free listing), let us know when we call you.</p>
+<p>We don't sell your data, share it with marketing networks, or use it for cross-site advertising. We will never pass your details to a partner buying firm without first asking your permission. If you'd prefer we didn't share your details with our partner agent (which would mean we can't arrange the free listing), let us know when we call you.</p>
 
 <h2>How long we keep your data</h2>
 <p>Enquiry data without a transaction: typically deleted within 12 months. Transaction records: retained for at least 6 years to comply with AML and HMRC requirements.</p>
