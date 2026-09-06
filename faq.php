@@ -57,7 +57,7 @@ include 'includes/header.php';
 
     <h2 class="mt-4">Privacy &amp; data</h2>
     <div class="faq" data-schema="true">
-      <details><summary>What do you do with my data?</summary><p>We use it only to value your property and contact you about your enquiry. We don't sell, share, or pass it to third parties. See our <a href="/privacy.php">privacy policy</a>.</p></details>
+      <details><summary>What do you do with my data?</summary><p>We use it only to value your property and contact you about your enquiry. We don't sell your data or pass it to marketers — the only time we'd introduce you to a partner firm is with your permission first. See our <a href="/privacy.php">privacy policy</a>.</p></details>
       <details><summary>Will you mark my property publicly?</summary><p>No. No for-sale board, no public listing, no Rightmove ad. The sale is private until it's complete.</p></details>
       <details><summary>How can I delete my data after we've spoken?</summary><p>Email <a href="mailto:info@clydehousebuyers.co.uk">info@clydehousebuyers.co.uk</a> with a deletion request and we'll remove your data within 30 days (some records are retained for AML compliance — minimum required by law only).</p></details>
     </div>
