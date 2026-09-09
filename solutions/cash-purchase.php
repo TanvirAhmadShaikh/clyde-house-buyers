@@ -1,6 +1,6 @@
 <?php
-$page_title = "Cash Purchase — Sell Your House for Cash | Clyde Housebuyers Glasgow";
-$page_description = "Fast cash purchase across Glasgow & Scotland's Central Belt. Free valuation in 24 hours, completion in 14–28 days, all legal fees covered. Any property, any condition, any situation.";
+$page_title = "Sell Your House for Cash — Glasgow Cash House Buyers | Clyde Housebuyers";
+$page_description = "Sell your house for cash across Glasgow & Scotland's Central Belt. Genuine cash house buyers — free valuation in 24 hours, completion in 14–28 days, all legal fees covered. Any property, any condition.";
 $canonical = "https://clydehousebuyers.co.uk/solutions/cash-purchase.php";
 include __DIR__ . '/../includes/head.php';
 include __DIR__ . '/../includes/header.php';
@@ -13,8 +13,8 @@ include __DIR__ . '/../includes/header.php';
 <section class="hero">
   <div class="container hero-inner">
     <span class="eyebrow" style="color:#d6b56b;">Cash purchase · Glasgow &amp; Central Belt</span>
-    <h1>A guaranteed cash sale. 14–28 days. Any property, any condition.</h1>
-    <p class="hero-subhead">A cash purchase is our simplest route — direct sale to us, completion in weeks not months, all legal fees on us. No chains, no surveys falling through, no buyers pulling out. Best for sellers who value certainty and speed over the very highest price.</p>
+    <h1>Sell your house for cash. 14–28 days. Any property, any condition.</h1>
+    <p class="hero-subhead">"Sell my house for cash" usually means one thing: certainty and speed. A cash purchase is our simplest route — direct sale to us, completion in weeks not months, all legal fees on us. No chains, no surveys falling through, no buyers pulling out. Best for sellers who value certainty over the very highest price.</p>
     <div class="hero-ctas">
       <a href="/free-valuation.php" class="btn btn-primary">Get my cash offer in 24 hours</a>
       <a href="tel:01415301430" class="btn btn-ghost-on-dark">📞 0141 530 1430</a>
@@ -28,8 +28,8 @@ include __DIR__ . '/../includes/header.php';
 <section class="section">
   <div class="container-narrow prose">
     <span class="eyebrow">What you can expect</span>
-    <h2>What a cash sale to us actually means.</h2>
-    <p>"Cash buyer" gets used loosely in this industry. Half the firms advertising as cash buyers are actually buying with bridging finance, hoping to flip to an end buyer, or sourcing on for another investor. We're not — when we agree a cash offer, we close the transaction using our own funds. Proof of funds available on request before missives.</p>
+    <h2>Genuine cash house buyers — what that actually means.</h2>
+    <p>"Cash buyer" gets used loosely in this industry. Many of the firms advertising as cash house buyers are actually buying with bridging finance, hoping to flip to an end buyer, or sourcing your enquiry on to another investor. We're not — when we agree a cash offer, we close the transaction using our own funds. Proof of funds available on request before missives. (If you're weighing up several buyers, our guide to <a href="/companies-that-buy-houses.php">companies that buy houses</a> covers what to check.)</p>
     <p>What that means for you:</p>
     <ul>
       <li><strong>No financial chain.</strong> We don't need a mortgage. We don't need to sell something else first. No survey can collapse the deal because there's no lender involved on our side.</li>
@@ -64,7 +64,7 @@ include __DIR__ . '/../includes/header.php';
       <li><strong>Tenancy</strong> — tenanted property is priced on yield, not vacant-possession comparables.</li>
     </ul>
     <p>The 75–85% range is honest — anyone telling you they'll pay 95% of market value in cash and complete in 14 days isn't telling you the truth.</p>
-    <p>If your property needs significant work, <strong>an <a href="/solutions/assisted-sale.php">assisted sale</a> typically nets you more</strong> than our cash purchase — sometimes much more. We'll model both and let you choose.</p>
+    <p>If your property needs significant work, <strong>an <a href="/solutions/assisted-sale.php">assisted sale</a> typically nets you more</strong> than our cash purchase — sometimes much more. We'll model both and let you choose. Not set on a cash sale at all? See the other ways to <a href="/sell-house-without-an-estate-agent.php">sell without an estate agent</a>.</p>
   </div>
 </section>
 

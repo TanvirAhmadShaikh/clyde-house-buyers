@@ -13,6 +13,8 @@
           <li><a href="/sellers/sell-house-fast-east-kilbride.php">East Kilbride</a></li>
           <li><a href="/sellers/sell-house-fast-hamilton.php">Hamilton</a></li>
           <li><a href="/sellers/sell-house-fast-motherwell.php">Motherwell</a></li>
+          <li><a href="/sellers/sell-house-fast-coatbridge-airdrie.php">Coatbridge &amp; Airdrie</a></li>
+          <li><a href="/sellers/sell-house-fast-falkirk.php">Falkirk</a></li>
         </ul>
       </div>
       <div>
@@ -24,6 +26,7 @@
           <li><a href="/solutions/brokered-sale.php">Brokered sale</a></li>
           <li><a href="/solutions/joint-venture.php">Joint venture</a></li>
           <li><a href="/solutions/open-market-sale.php">Open market sale</a></li>
+          <li><a href="/sell-house-without-an-estate-agent.php">Sell without an agent</a></li>
         </ul>
       </div>
       <div>
@@ -32,6 +35,7 @@
           <li><a href="/about.php">About us</a></li>
           <li><a href="/case-studies.php">Worked examples</a></li>
           <li><a href="/how-it-works.php">How it works</a></li>
+          <li><a href="/companies-that-buy-houses.php">Companies that buy houses</a></li>
           <li><a href="/faq.php">FAQ</a></li>
           <li><a href="/contact.php">Contact</a></li>
           <li><a href="/free-valuation.php">Free valuation</a></li>

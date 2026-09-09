@@ -21,13 +21,13 @@ include 'includes/header.php';
 <section class="section">
   <div class="container-narrow prose">
     <h2>Who we are.</h2>
-    <p>Clyde Housebuyers is the home-buying arm of <strong>PropGain UK Limited</strong> — a Glasgow-based property business operating across Scotland's Central Belt. We buy directly, refurbish, broker, and partner on residential property. We've been working in Scottish property for years, and Clyde Housebuyers was launched specifically to give sellers a clearer, more honest alternative to the national "we buy any house" cash buyer model.</p>
+    <p>Clyde Housebuyers is the home-buying arm of <strong>PropGain UK Limited</strong> — a Glasgow-based property business operating across Scotland's Central Belt. We buy directly, refurbish, broker, and partner on residential property. We've been working in Scottish property for years, and Clyde Housebuyers was launched specifically to give sellers a clearer, more honest alternative to the national <a href="/companies-that-buy-houses.php">"we buy any house" cash buyer model</a>.</p>
 
     <h2>Why we do it differently.</h2>
     <p>Most cash-buyer firms operate the same way: aggressive marketing, lowball offers, take-it-or-leave-it pressure tactics. We came at this from a different angle — most of our team are property investors ourselves. We know that a one-size cash offer leaves money on the table for sellers whose property could be worth significantly more via an assisted sale, tenanted sale, or other structured route. So we offer all of them, and we tell you straight which one fits your property best.</p>
 
     <h2>How we make money.</h2>
-    <p>We're not embarrassed about being a business. We make money four ways: direct cash purchases that we refurbish and resell or hold as rentals; assisted sales where we share the uplift with you; brokerage commissions on off-market sales; and joint-venture profits. <strong>What we don't do</strong> is charge sellers fees, hide commissions in the legal fees, or sell on your details to other buyers.</p>
+    <p>We're not embarrassed about being a business. We make money four ways: direct cash purchases that we refurbish and resell or hold as rentals; assisted sales where we share the uplift with you; brokerage commissions on off-market sales; and joint-venture profits. <strong>What we don't do</strong> is charge sellers fees, hide commissions in the legal fees, or pass your details to another buyer without asking you first.</p>
 
     <h2>What we believe.</h2>
     <ul>

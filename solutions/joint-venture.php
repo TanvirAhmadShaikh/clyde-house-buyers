@@ -1,5 +1,5 @@
 <?php
-$page_title = "Property Joint Venture Scotland | Refurb &amp; Share Uplift | Clyde Housebuyers";
+$page_title = "Property Joint Venture Scotland | Refurb & Share Uplift | Clyde Housebuyers";
 $page_description = "Want to maximise your property's value without the risk? A Joint Venture lets us refurbish together, share costs and profits, and split the uplift. For owners with time and willingness to partner.";
 $canonical = "https://clydehousebuyers.co.uk/solutions/joint-venture.php";
 include __DIR__ . '/../includes/head.php';

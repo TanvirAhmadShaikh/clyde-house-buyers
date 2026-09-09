@@ -1,5 +1,5 @@
 <?php
-$page_title = "Sell Inherited Property Bearsden | Probate &amp; Family Sales | Clyde Housebuyers";
+$page_title = "Sell Inherited Property Bearsden | Probate & Family Sales | Clyde Housebuyers";
 $page_description = "Inherited a property in Bearsden, Milngavie or West Glasgow? We help families sell privately and fairly, working with your solicitor. Cash purchase or assisted sale that nets the estate more.";
 $canonical = "https://clydehousebuyers.co.uk/situations/sell-inherited-property-bearsden.php";
 include __DIR__ . '/../includes/head.php';

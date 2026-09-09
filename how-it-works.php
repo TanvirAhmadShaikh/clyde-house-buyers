@@ -56,7 +56,7 @@ include 'includes/header.php';
     <ul>
       <li>You don't pay for a Home Report (not needed for our cash purchase)</li>
       <li>You don't pay legal fees (we cover them on a cash purchase)</li>
-      <li>You don't pay an estate-agent commission</li>
+      <li>You don't pay an estate-agent commission (<a href="/sell-house-without-an-estate-agent.php">more on selling without an agent</a>)</li>
       <li>You don't clear the property (we handle that after completion)</li>
       <li>You don't fix anything before sale</li>
       <li>You don't deal with chains, viewings, or buyer drop-outs</li>

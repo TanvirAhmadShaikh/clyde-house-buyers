@@ -59,6 +59,7 @@ include 'includes/header.php';
         <h2>How a private sale to us compares to the open market.</h2>
         <p>An estate agent is the right route for some properties. For others, the time, fees, viewings, and chain risk add up — and the final net figure is closer to a cash sale than most sellers realise.</p>
         <p>Here's the honest comparison. We'll never tell you to sell to us if an estate agent would genuinely serve you better.</p>
+        <p class="muted" style="font-size:0.95rem;">Set on skipping the agent? See the <a href="/sell-house-without-an-estate-agent.php">routes for selling without an estate agent</a> and what each one nets you.</p>
         <a href="/free-valuation.php" class="btn btn-primary mt-2">Get a free valuation</a>
       </div>
       <div>
@@ -87,7 +88,7 @@ include 'includes/header.php';
       <div>
         <span class="eyebrow">Why Clyde Housebuyers</span>
         <h2>Most cash house buyers offer one route. We offer six.</h2>
-        <p>Other Scottish cash buyers give you a take-it-or-leave-it offer at 70–80% of market value — and walk away if your property doesn't fit their model.</p>
+        <p>Other Scottish cash buyers give you a take-it-or-leave-it offer at 70–80% of market value — and walk away if your property doesn't fit their model. (Our guide to <a href="/companies-that-buy-houses.php">companies that buy houses</a> explains how the pricing works and what to check.)</p>
         <p>We work differently. We look at your property, your situation, and your priorities, then propose the route that gets you the best outcome. Sometimes that's a fast cash offer. Sometimes it's an assisted sale that nets you tens of thousands more. Sometimes it's a creative solution none of our competitors would consider.</p>
         <p><strong>Whatever works — for you.</strong></p>
         <a href="/solutions/assisted-sale.php" class="btn btn-secondary mt-2">See how we're different</a>
@@ -215,7 +216,7 @@ include 'includes/header.php';
       </details>
       <details>
         <summary>What if I'm not ready to sell yet?</summary>
-        <p>That's fine. Take our valuation, see how the numbers compare, and come back when you're ready. We don't pressure-sell and we don't pass your details to anyone.</p>
+        <p>That's fine. Take our valuation, see how the numbers compare, and come back when you're ready. We don't pressure-sell, and we won't pass your details to another buyer without asking you first.</p>
       </details>
       <details>
         <summary>What areas do you cover?</summary>
